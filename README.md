@@ -35,6 +35,11 @@ Prerequisites: numpy, scipy
 cd prosail_pro
 pip install .
 ```
+## Install directly from GitHub
+
+```
+pip install git+https://github.com/CRUN-creator/prosail_pro.git
+```
 
 ## **Usage Guide**
 
