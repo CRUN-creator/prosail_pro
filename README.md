@@ -187,7 +187,7 @@ The model includes built-in logic to handle the relationship between Cm, Prot, a
 
 - **Original PROSPECT-PRO Matlab Package**:
 
-​	   https://gitlab.com/jbferet/prospect_pro_matlab
+​	 https://gitlab.com/jbferet/prospect_pro_matlab
 
 - **Original PROSAIL Python Package**:
 
