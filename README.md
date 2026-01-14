@@ -199,7 +199,7 @@ pip uninstall prosail_pro
 
 ## Authors
 
-- **CRUN** (Package Maintainer)
+- **CRUN** (Package Maintainer)：[CRUN-creator](https://github.com/CRUN-creator)
 - **PROSPECT-PRO (MATLAB)**: [Jean-Baptiste Feret](https://gitlab.com/jbferet)
 - **PROSAIL (Python)**: [José Gómez-Dans](https://github.com/jgomezdans)
 
